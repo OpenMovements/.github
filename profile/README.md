@@ -27,7 +27,6 @@ At the heart of our organization lies the unwavering commitment to liberty. We c
 ### Community
 
 The OpenMovements Initiative thrives on community spirit. Our members span continents, cultures, and time zones. We plan to organize hackathons, webinars, and meetups, fostering connections and sparking creativity.
-Advocacy
 
 We’re not afraid to speak truth to power. The OpenMovements Initiative actively campaigns for FOSS adoption in government, education, and industry. Our advocacy efforts include lobbying for open standards, promoting transparent algorithms, and challenging monopolistic practices.
 
